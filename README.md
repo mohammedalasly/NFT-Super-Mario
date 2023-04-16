@@ -14,4 +14,4 @@ npx hardhat run scripts/deploy.js
 
 **Testnet:** _Mumbai_
 
-![NFT](./project-image/nft.png)
+![NFT](./project-screenshot/nft.png)
